@@ -131,7 +131,6 @@ for (let propiedades of propiedades_alquiler){
     totalAlquiler.innerHTML += plantilla
 }
 
-const alquiler3 = propiedades_alquiler.slice(1,4)
-console.log('alquiler3 --->', alquiler3);
+
 
 

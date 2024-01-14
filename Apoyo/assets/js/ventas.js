@@ -137,6 +137,3 @@ for (let propiedades of propiedades_ventas){
     totalVentas.innerHTML += plantilla
 }
 
-
-const venta3 = propiedades_ventas.slice(1,4)
-console.log('venta3 --->', venta3);
