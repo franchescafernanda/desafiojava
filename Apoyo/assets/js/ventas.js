@@ -85,6 +85,9 @@ const propiedades_ventas = [
     }
 ]
 
+const venta3 = propiedades_ventas.slice(1,4)
+console.log('venta3 --->', venta3);
+
 export default propiedades_ventas
 
 const totalVentas = document.getElementById('propiedades-ventas')

@@ -79,6 +79,9 @@ const propiedades_alquiler = [
     }
 ]
 
+const alquiler3 = propiedades_alquiler.slice(1,4)
+console.log('alquiler3 --->', alquiler3);
+
 export default propiedades_alquiler
 
 const totalAlquiler = document.getElementById('propiedades-alquiler')
